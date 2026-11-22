@@ -1,7 +1,7 @@
 {
-  "name": "mi-producto",
+  "name": "historial-veterinario",
   "version": "0.1.0",
-  "description": "Proyecto de Lenguaje de Programación · cambia este texto por la descripción de tu producto",
+  "description": "Historial clinico de una veterinaria",
   "private": true,
   "type": "module",
   "engines": {
