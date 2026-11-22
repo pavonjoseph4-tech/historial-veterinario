@@ -9,7 +9,7 @@ está organizado el proyecto y qué reglas sigue.
 - Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
 - La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
   resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
+- Producto: Historial Veterinario ('historial-veterinario')- Sistema web para la gestión clínica de mascotas y animales de compañía. Permite registrar propietarios, gestionar fichas de pacientes (especie, raza, edad, peso), llevar el control cronológico de consultas médicas, diagnósticos, tratamientos y calendario de vacunación.
 
 ## Reglas obligatorias
 
